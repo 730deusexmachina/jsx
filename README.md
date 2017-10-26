@@ -1,4 +1,4 @@
-#最近書いたもの(主に拡張子が.jsx)  
+# 最近書いたもの(主に拡張子が.jsx)  
 特に注意書きのないものは、Windows用のInDesign上で動くExtend Script
 
 ## jsx/このドキュメントの格納パスをExplorerで開く/
