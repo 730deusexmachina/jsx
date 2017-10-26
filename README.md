@@ -10,6 +10,7 @@ app.activeDocumentがsavedである時、右ペインでそのファイルが選
 	* 悪い点：ない方がファイルI/Oがある(バッチファイル作る・バッチファイル消す)
 	* 悪い点：エクスプローラ起動部分をバッチファイルで実現しているため、実行するとDOS窓が開くのが邪魔
   
+  
 
 ### このドキュメントの格納パスをExplorerで開く(VBScript版).jsx
 app.activeDocumentがsavedである時、右ペインでそのファイルが選択された状態のエクスプローラを開く(バージョン2)
@@ -19,7 +20,7 @@ app.activeDocumentがsavedである時、右ペインでそのファイルが選
 
 →vbs/このドキュメントの格納パスをExplorerで開く/に続く
   
-
+  
 
 ## jsx/全レイヤーのロックを外す/
 app.activeDocumentの全レイヤーに対して、ロックを解除する
@@ -28,3 +29,5 @@ app.activeDocumentの全レイヤーに対して、ロックを解除する
 InDesignドキュメント中で1文字選択して実行すると、文字コードをダイアログ表示する
 * <http://blog.kanemu.net/2009/05/blog-post.html> にあるコードのほとんど丸パクりですすみません‥‥‥
   
+  
+
